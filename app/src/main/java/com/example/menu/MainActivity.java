@@ -5,7 +5,9 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     RecyclerView rv;
@@ -28,4 +30,10 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+     public void display(View v){
+        // final Toast toast;
+         Toast.makeText(MainActivity.this,"Added!",Toast.LENGTH_SHORT).show();
+
+     }
+
 }
