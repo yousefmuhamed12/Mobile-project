@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string-array name="pizzas">
+        <item>Pepperoni pizza</item>
+        <item>Mushroom pizza</item>
+        <item>Margherita pizza</item>
+        <item>Veggie lovers pizza</item>
+    </string-array>
+    <string-array name="description">
+        <item>Contains slices of pepperoni , cheese , classic sauce.</item>
+        <item>Contains mushrooms, cheese , fresh herbs.</item>
+        <item>Contains tomatoes, mozzarella cheese, fresh basil, salt, and extra-virgin olive oil.</item>
+        <item>Contains fresh mushrooms ,onions , olives , tomatoes , green peppers.</item>
+
+    </string-array>
+</resources>
