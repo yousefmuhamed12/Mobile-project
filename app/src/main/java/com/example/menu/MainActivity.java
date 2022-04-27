@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
     }
      public void display(View v){
         // final Toast toast;
+         // shows message to the user
          Toast.makeText(MainActivity.this,"Added!",Toast.LENGTH_SHORT).show();
 
      }
